@@ -1,0 +1,7 @@
+examples/*.png
+venv/
+.idea/
+anomaly.egg-info/
+build/
+dist/
+*.pyc

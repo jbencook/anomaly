@@ -1,0 +1,5 @@
+-r ../requirements.txt
+
+matplotlib==1.4.3
+scikit-learn==0.16.1
+seaborn==0.6.0
