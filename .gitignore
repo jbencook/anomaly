@@ -5,3 +5,4 @@ anomaly.egg-info/
 build/
 dist/
 *.pyc
+.coverage
