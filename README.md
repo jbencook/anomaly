@@ -2,7 +2,7 @@
 
 A python implementation of [anomaly_detection](https://github.com/pollo/anomaly_detection).
 
-Any anomaly detection system will need to inherit from the `AnomalyDetection`.
+Any anomaly detection class will need to inherit from the `AnomalyDetection`.
 Implement `build_model()` and `reconstruct_signal()`.
 
 To run the examples:
